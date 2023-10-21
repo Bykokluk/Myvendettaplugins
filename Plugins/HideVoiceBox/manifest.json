@@ -1,0 +1,7 @@
+{
+    "name": "HideVoiceBox",
+    "description": "Hides the VoiceMessage button in the chat input.",
+    "vendetta": {
+        "icon": "ic_voice_settings_24px"
+    }
+}
