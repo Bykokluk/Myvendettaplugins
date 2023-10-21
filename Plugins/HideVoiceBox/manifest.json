@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "HideVoicebox",
+    "description": "Hides the voicemessage box.",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Bykokluk",
+            "id": "1035955081461379143"
         }
     ],
     "main": "src/index.ts",
